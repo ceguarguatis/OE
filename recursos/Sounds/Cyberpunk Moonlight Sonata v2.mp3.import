@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Cyberpunk Moonlight Sonata v2.mp3-2e4fa79285b726b3cb6c05adc568e49c.mp3str"
+
+[deps]
+
+source_file="res://recursos/Sounds/Cyberpunk Moonlight Sonata v2.mp3"
+dest_files=[ "res://.import/Cyberpunk Moonlight Sonata v2.mp3-2e4fa79285b726b3cb6c05adc568e49c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
