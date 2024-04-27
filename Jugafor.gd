@@ -22,12 +22,12 @@ func _process(delta):
 	Movimiento = Vector2()
 	if Touch:
 		if global_position.x > P.x:
-			Movimiento.x -= 1
+			Movimiento.x -= 5
 		if global_position.x < P.x:
-			Movimiento.x += 1
+			Movimiento.x += 5
 		if global_position.y > P.y:
 			Movimiento.y -= 4
 		if global_position.y < P.y:
-			Movimiento.y += 1
+			Movimiento.y += 5
 	
 	position += Movimiento
