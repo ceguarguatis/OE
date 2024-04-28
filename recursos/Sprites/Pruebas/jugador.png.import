@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/charsets_12_m-f_complete_by_antifarea.png-4bb4114dfe020eca143c43418ee24144.stex"
+path="res://.import/jugador.png-0578cd664294f524af2f818385139b4f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://recursos/Sprites/charsets_12_m-f_complete_by_antifarea.png"
-dest_files=[ "res://.import/charsets_12_m-f_complete_by_antifarea.png-4bb4114dfe020eca143c43418ee24144.stex" ]
+source_file="res://recursos/Sprites/Pruebas/jugador.png"
+dest_files=[ "res://.import/jugador.png-0578cd664294f524af2f818385139b4f.stex" ]
 
 [params]
 

@@ -33,3 +33,7 @@ func _process(delta):
 	if Movimiento.length() > 0:
 		Movimiento = Movimiento.normalized() * Velocidad
 	position += Movimiento * delta
+
+
+func _on_Jugador_body_entered(body):
+	pass # Replace with function body.
