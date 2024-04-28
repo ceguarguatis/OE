@@ -22,7 +22,6 @@ animations = [ {
 } ]
 
 [sub_resource type="CapsuleShape2D" id=2]
-radius = 10.0
 height = 108.0
 
 [node name="Enemigo" type="RigidBody2D"]
@@ -39,7 +38,7 @@ position = Vector2( 1, -1 )
 scale = Vector2( 8, 8 )
 frames = SubResource( 1 )
 animation = "BolaG"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
